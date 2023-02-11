@@ -10,7 +10,7 @@
 }
 
 body{
-  background: #e7f1ff;
+  background: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
   font-size: 14px;
   color: #a0acb5;
   letter-spacing: 1px;
